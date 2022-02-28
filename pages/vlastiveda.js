@@ -5,21 +5,21 @@ function vlastiveda() {
     <div>
       <ul>
         <li>
-          <Link href="files/test_1.pdf" passHref>
+          <Link href="/files/test_1.pdf" passHref>
             <a target="_blank" rel="noopener noreferrer">
               Test
             </a>
           </Link>
         </li>
         <li>
-          <Link href="files/test_1_odpovedi.pdf" passHref>
+          <Link href="/files/test_1_odpovedi.pdf" passHref>
             <a target="_blank" rel="noopener noreferrer">
               Test - odpovědi
             </a>
           </Link>
         </li>
         <li>
-          <Link href="files/test_1_vyplneny.pdf" passHref>
+          <Link href="/files/test_1_vyplneny.pdf" passHref>
             <a target="_blank" rel="noopener noreferrer">
               Test - vyplněný
             </a>

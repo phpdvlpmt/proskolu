@@ -6,7 +6,7 @@ function informatika() {
     <div>
       <ul className="flex space-x-4">
         <li>
-          <Link href="files/diplom_1.pdf" passHref>
+          <Link href="/files/diplom_1.pdf" passHref>
             <a target="_blank" rel="noopener noreferrer">
               <Image
                 width="200"
@@ -18,7 +18,7 @@ function informatika() {
           </Link>
         </li>
         <li>
-          <Link href="files/diplom_2.pdf" passHref>
+          <Link href="/files/diplom_2.pdf" passHref>
             <a target="_blank" rel="noopener noreferrer">
               <Image
                 width="200"
@@ -30,7 +30,7 @@ function informatika() {
           </Link>
         </li>
         <li>
-          <Link href="files/diplom_3.pdf" passHref>
+          <Link href="/files/diplom_3.pdf" passHref>
             <a target="_blank" rel="noopener noreferrer">
               <Image
                 width="200"
@@ -42,7 +42,7 @@ function informatika() {
           </Link>
         </li>
         <li>
-          <Link href="files/sudoku.pdf" passHref>
+          <Link href="/files/sudoku.pdf" passHref>
             <a target="_blank" rel="noopener noreferrer">
               <Image
                 width="200"
