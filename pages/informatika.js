@@ -53,6 +53,18 @@ function informatika() {
             </a>
           </Link>
         </li>
+        <li>
+          <Link href="/files/recept.pdf" passHref>
+            <a target="_blank" rel="noopener noreferrer">
+              <Image
+                width="200"
+                height="200"
+                src="/images/recept.png"
+                alt="image"
+              />
+            </a>
+          </Link>
+        </li>
       </ul>
     </div>
   );
