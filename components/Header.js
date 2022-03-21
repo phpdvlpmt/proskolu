@@ -5,7 +5,7 @@ function Header() {
   const router = useRouter();
 
   return (
-    <div className="p-4 bg-slate-800 text-white">
+    <div className="p-4 bg-slate-800 text-white sticky top-0 z-10">
       <ul className="flex space-x-5">
         <li className={router.pathname == "/" ? " font-bold" : ""}>
           <Link href="/"> Domů</Link>
