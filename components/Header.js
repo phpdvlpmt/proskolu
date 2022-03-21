@@ -3,7 +3,6 @@ import { useRouter } from "next/router";
 
 function Header() {
   const router = useRouter();
-  console.log(router);
 
   return (
     <div className="p-4 bg-slate-800 text-white">
