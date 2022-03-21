@@ -4,7 +4,7 @@ import Image from "next/image";
 function informatika() {
   return (
     <div>
-      <ul className="flex space-x-4">
+      <ul className="flex  space-x-4">
         <li>
           <Link href="/files/diplom_1.pdf" passHref>
             <a target="_blank" rel="noopener noreferrer">
@@ -60,6 +60,18 @@ function informatika() {
                 width="200"
                 height="200"
                 src="/images/recept.png"
+                alt="image"
+              />
+            </a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/files/jidelni_listek.pdf" passHref>
+            <a target="_blank" rel="noopener noreferrer">
+              <Image
+                width="200"
+                height="200"
+                src="/images/jidelni_listek.png"
                 alt="image"
               />
             </a>
