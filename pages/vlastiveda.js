@@ -29,6 +29,20 @@ function vlastiveda() {
             </a>
           </Link>
         </li>
+        <li>
+          <Link
+            href="https://rysava.websnadno.cz/Vlastiveda-dejepis-5roc.html"
+            passHref
+          >
+            <a
+              className="font-semibold text-lg text-red-700"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Online testy - dějepisné učivo 5. ročník
+            </a>
+          </Link>
+        </li>
       </ul>
     </div>
   );
