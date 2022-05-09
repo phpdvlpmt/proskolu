@@ -13,7 +13,7 @@ function Informatika() {
 
       {Products.map((product) => (
         <div
-          className="flex  items-center justify-center bg-white shadow-md hover:shadow-lg hover:skew-x-1 p-5"
+          className="flex  items-center justify-center bg-white shadow-md hover:shadow-lg p-5 overflow-hidden"
           key={product.link}
         >
           <InfCard link={product.link} img={product.img} />

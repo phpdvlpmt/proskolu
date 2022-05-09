@@ -7,7 +7,13 @@ function InfCard({ link, img }) {
     <div className="relative">
       <Link href={link} passHref>
         <a target="_blank" rel="noopener noreferrer">
-          <Image width="250" height="250" src={img} alt="image" />
+          <Image
+            width="250"
+            height="250"
+            src={img}
+            alt="image"
+            className="hover:scale-110 cursor-pointer"
+          />
         </a>
       </Link>
     </div>
