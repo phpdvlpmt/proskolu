@@ -7,29 +7,40 @@ import DataCard from "../components/DataCard";
 export default function Data() {
   return (
     <div>
-      <Head>
-        <title>Data</title>
-      </Head>
-      <div>
-        <h1 className="text-3xl font-bold">
+      <div className="mb-3 px-6 py-4 border rounded-md shadow-lg">
+        <h1 className="text-2xl font-bold">
           <Link href="https://pracesdaty.zcu.cz/">
             <a target="_blank" rel="noopener noreferrer">
               {" "}
-              Práce s daty
+              Práce s daty - https://pracesdaty.zcu.cz/
             </a>
           </Link>
         </h1>
+        <h2 className="text-sm text italic">
+          Níže je výběr cvičení z webu https://pracesdaty.zcu.cz/
+        </h2>
       </div>
+      <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        <Head>
+          <title>Data</title>
+        </Head>
 
-      {IData.map((idata) => (
-        <div
-          key={idata.id}
-          className="items-center justify-center bg-white shadow-md hover:shadow-lg p-5 overflow-hidden"
-        >
-          <h2 className="text-xl font-semibold">{idata.name}</h2>
-          <DataCard name={idata.name} subname={idata.subname} />
-        </div>
-      ))}
+        {IData.map((idata) => (
+          <div
+            key={idata.id}
+            className="items-center justify-center bg-white shadow-md hover:shadow-lg p-5 overflow-hidden"
+          >
+            <h2 className="text-xl font-semibold">
+              <Link href={idata.link}>
+                <a target="_blank" rel="noopener noreferrer">
+                  {idata.name}
+                </a>
+              </Link>
+            </h2>
+            <DataCard name={idata.name} subname={idata.subname} />
+          </div>
+        ))}
+      </div>
     </div>
   );
 }

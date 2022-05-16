@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Víme co jsou data",
+    "link": "https://pracesdaty.zcu.cz/index.php/co-jsou-data",
     "subname": [
       {
         "name": "Doplňování vět",
@@ -14,6 +15,121 @@
       {
         "name": "Doplňujeme sportovní tabulku",
         "link": "https://pracesdaty.zcu.cz/index.php/co-jsou-data/4-data-priklad-2"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Evidujeme data",
+    "link": "https://pracesdaty.zcu.cz/index.php/evidujeme-data",
+    "subname": [
+      {
+        "name": "Vytvoření tabulky",
+        "link": "https://pracesdaty.zcu.cz/index.php/evidujeme-data/31-evidujeme-priklad-6"
+      },
+      {
+        "name": "Hudební nástroje",
+        "link": "https://pracesdaty.zcu.cz/index.php/evidujeme-data/28-evidujeme-priklad-5"
+      },
+      {
+        "name": "Tabulka s ovocem",
+        "link": "https://pracesdaty.zcu.cz/index.php/evidujeme-data/21-evidujeme-priklad-3"
+      },
+      {
+        "name": "Slovníky",
+        "link": "https://pracesdaty.zcu.cz/index.php/evidujeme-data/7-evidujeme-priklad-1"
+      },
+      {
+        "name": "Doplňování tabulky",
+        "link": "https://pracesdaty.zcu.cz/index.php/evidujeme-data/20-evidujeme-priklad-2"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kontrolujeme data",
+    "link": "https://pracesdaty.zcu.cz/index.php/kontrolujeme-data",
+    "subname": [
+      {
+        "name": "Poruchy robotů",
+        "link": "https://pracesdaty.zcu.cz/index.php/kontrolujeme-data/29-kontrolujeme-priklad-5"
+      },
+      {
+        "name": "Obrázkové tabulky",
+        "link": "https://pracesdaty.zcu.cz/index.php/kontrolujeme-data/10-kontrolujeme-priklad-2"
+      },
+      {
+        "name": "Adopce zvířátka",
+        "link": "https://pracesdaty.zcu.cz/index.php/kontrolujeme-data/6-kontrolujeme-priklad-1"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Filtrujeme třídíme a řadíme data",
+    "link": "https://pracesdaty.zcu.cz/index.php/filtrujeme-tridime-a-radime",
+    "subname": [
+      {
+        "name": "Řazení čísel",
+        "link": "https://pracesdaty.zcu.cz/index.php/filtrujeme-tridime-a-radime/16-filtr-priklad-4"
+      },
+      {
+        "name": "Znaky a ikony",
+        "link": "https://pracesdaty.zcu.cz/index.php/filtrujeme-tridime-a-radime/15-filtr-priklad-3"
+      },
+      {
+        "name": "Barvy",
+        "link": "https://pracesdaty.zcu.cz/index.php/filtrujeme-tridime-a-radime/14-filtr-priklad-2"
+      },
+      {
+        "name": "Řazení prohlížečů",
+        "link": "https://pracesdaty.zcu.cz/index.php/filtrujeme-tridime-a-radime/8-filtr-priklad-1"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Porovnáváme a prezentujeme data",
+    "link": "https://pracesdaty.zcu.cz/index.php/porovnavame-a-dokazeme-prezentovat",
+    "subname": [
+      {
+        "name": "Ovoce a zelenina",
+        "link": "https://pracesdaty.zcu.cz/index.php/porovnavame-a-dokazeme-prezentovat/30-porovnavame-priklad-6"
+      },
+      {
+        "name": "Odhad prodejů",
+        "link": "https://pracesdaty.zcu.cz/index.php/porovnavame-a-dokazeme-prezentovat/27-porovnavame-priklad-5"
+      },
+      {
+        "name": "Páry",
+        "link": "https://pracesdaty.zcu.cz/index.php/porovnavame-a-dokazeme-prezentovat/23-porovnavame-priklad-4"
+      },
+      {
+        "name": "Datíkovy baterie",
+        "link": "https://pracesdaty.zcu.cz/index.php/porovnavame-a-dokazeme-prezentovat/22-porovnavame-priklad-3"
+      },
+      {
+        "name": "Práce s rozvrhy",
+        "link": "https://pracesdaty.zcu.cz/index.php/porovnavame-a-dokazeme-prezentovat/17-porovnavame-priklad-2"
+      },
+      {
+        "name": "Pexeso",
+        "link": "https://pracesdaty.zcu.cz/index.php/porovnavame-a-dokazeme-prezentovat/9-porovnavame-priklad-1"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Řešíme problémy s daty",
+    "link": "https://pracesdaty.zcu.cz/index.php/resime-problemy",
+    "subname": [
+      {
+        "name": "Kontrola referátů",
+        "link": "https://pracesdaty.zcu.cz/index.php/resime-problemy/13-resime-priklad-3"
+      },
+      {
+        "name": "Bludiště",
+        "link": "https://pracesdaty.zcu.cz/index.php/resime-problemy/18-resime-priklad-4"
       }
     ]
   }
