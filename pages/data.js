@@ -7,7 +7,7 @@ import DataCard from "../components/DataCard";
 export default function Data() {
   return (
     <div>
-      <div className="mb-3 px-6 py-4 border rounded-md shadow-lg">
+      <div className="mb-3 px-6 py-4 border rounded-md shadow-lg bg-white">
         <h1 className="text-2xl font-bold">
           <Link href="https://pracesdaty.zcu.cz/">
             <a target="_blank" rel="noopener noreferrer">
@@ -28,7 +28,7 @@ export default function Data() {
         {IData.map((idata) => (
           <div
             key={idata.id}
-            className="items-center justify-center bg-white shadow-md hover:shadow-lg p-5 overflow-hidden"
+            className="items-center justify-center bg-white shadow-md rounded-md hover:shadow-lg p-5 overflow-hidden transition-all delay-100"
           >
             <h2 className="text-xl font-semibold">
               <Link href={idata.link}>
