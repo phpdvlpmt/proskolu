@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Head from "next/head";
+import Image from "next/image";
 
 function vlastiveda() {
   return (
@@ -98,6 +99,42 @@ function vlastiveda() {
             <Link href="/files/test_2_vyplneny.pdf" passHref>
               <a target="_blank" rel="noopener noreferrer">
                 Test - vyplněný
+              </a>
+            </Link>
+          </li>
+        </ul>
+      </div>
+      <div className="flex flex-col sm:flex-row my-5 space-y-5 sm:space-y-0 sm:space-x-5 w-full">
+        <ul className="border rounded-md shadow-lg p-4 flex-1">
+          <li className="font-bold text-xl text-gray-800 mb-5 text-center">
+            Časová přímka - 4. ročník
+          </li>
+          <li className="text-center">
+            <Link href="/images/casova_primka_1.jpg" passHref>
+              <a target="_blank" rel="noopener noreferrer">
+                <Image
+                  src="/images/casova_primka_1.jpg"
+                  alt="přímka"
+                  width={500}
+                  height={300}
+                />
+              </a>
+            </Link>
+          </li>
+        </ul>
+        <ul className="border rounded-md shadow-lg p-4 flex-1">
+          <li className="font-bold text-xl text-gray-800 mb-5 text-center">
+            Časová přímka - 5. ročník
+          </li>
+          <li className="text-center">
+            <Link href="/images/casova_primka_2.jpg" passHref>
+              <a target="_blank" rel="noopener noreferrer">
+                <Image
+                  src="/images/casova_primka_2.jpg"
+                  alt="přímka"
+                  width={500}
+                  height={300}
+                />
               </a>
             </Link>
           </li>
