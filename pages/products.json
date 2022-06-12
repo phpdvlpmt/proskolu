@@ -42,5 +42,9 @@
   {
     "link": "/files/sifry.pdf",
     "img": "/images/sifry.png"
+  },
+  {
+    "link": "http://tomas.imysleni.cz/",
+    "img": "https://imysleni.cz/components/com_rsdirectory/files/cache/330x460/3d74e475b3179e93fb9f069f79be88dc.png"
   }
 ]
