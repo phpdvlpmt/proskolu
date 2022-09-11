@@ -5,11 +5,10 @@ function Layout({ children }) {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
       <Head>
-        <title>Layout</title>
+        <title>Pro školu</title>
       </Head>
       <Header />
       <div className="container mx-auto p-6 flex-1">{children}</div>
-      <div></div>
     </div>
   );
 }

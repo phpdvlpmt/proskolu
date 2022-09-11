@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import Head from "next/head";
-import Products from "../pages/products.json";
+import Products from "../lib/products.json";
 import InfCard from "../components/InfCard";
 
 function Informatika() {

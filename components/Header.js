@@ -20,6 +20,9 @@ function Header() {
         <li className={router.pathname == "/informatika" ? "font-bold" : ""}>
           <Link href="/informatika">Informatika</Link>
         </li>
+        <li className={router.pathname == "/ni" ? "font-bold" : ""}>
+          <Link href="/ni">Nová informatika</Link>
+        </li>
         <li className={router.pathname == "/data" ? "font-bold" : ""}>
           <Link href="/data">Práce s daty</Link>
         </li>

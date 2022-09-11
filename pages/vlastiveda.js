@@ -2,7 +2,7 @@ import Link from "next/link";
 import Head from "next/head";
 import Image from "next/image";
 import VlCard from "../components/VlCard";
-import vl from "../pages/vl.json";
+import vl from "../lib/vl.json";
 
 function vlastiveda() {
   return (

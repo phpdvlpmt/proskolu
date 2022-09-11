@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "ŠVP",
+    "link": "https://www.imysleni.cz/images/SVP/SVP1_opatrne-vpred_v20220425.pdf",
+    "ext": 1
+  },
+  {
+    "id": 2,
+    "name": "Základy informatiky pro 1. stupeň ZŠ",
+    "link": "https://imysleni.cz/images/vzdelavaci_materialy/Inf/NS-Zaklady-informatiky.pdf",
+    "ext": 1
+  },
+  {
+    "id": 3,
+    "name": "Informatika pro 1. stupeň základní školy - učebnice",
+    "link": "https://www.albatrosmedia.cz/tituly/12848534/informatika-pro-1-stupen-zakladni-skoly/",
+    "ext": 1
+  },
+  {
+    "id": 4,
+    "name": "Datová Lhota",
+    "link": "https://decko.ceskatelevize.cz/datova-lhota",
+    "ext": 1
+  },
+  {
+    "id": 5,
+    "name": "JOP - Jednoduché Ovládání Počítače",
+    "link": "http://home.pf.jcu.cz/jop/",
+    "ext": 1
+  },
+  {
+    "id": 6,
+    "name": "Bobřík informatiky",
+    "link": "https://www.ibobr.cz/",
+    "ext": 1
+  },
+  {
+    "id": 7,
+    "name": "Počítač a síť",
+    "link": "/pocitac-a-sit",
+    "ext": 0
+  }
+]

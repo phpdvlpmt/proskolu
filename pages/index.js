@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Home</title>
+        <title>Domů</title>
       </Head>
     </div>
   );
