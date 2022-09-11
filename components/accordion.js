@@ -11,7 +11,7 @@ function accordion(props) {
   return (
     <div>
       <div>
-        <button className="font-bold" onClick={toggle}>
+        <button className="font-bold text-left" onClick={toggle}>
           {props.title}
         </button>
       </div>
