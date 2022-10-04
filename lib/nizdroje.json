@@ -40,5 +40,11 @@
     "name": "Počítač a síť",
     "link": "/pocitac-a-sit",
     "ext": 0
+  },
+  {
+    "id": 8,
+    "name": "Malování",
+    "link": "/malovani",
+    "ext": 0
   }
 ]

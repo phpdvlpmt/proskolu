@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import Head from "next/head";
-import IData from "../pages/data.json";
+import IData from "../lib/data.json";
 import DataCard from "../components/DataCard";
 
 export default function Data() {
