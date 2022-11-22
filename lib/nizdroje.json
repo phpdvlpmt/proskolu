@@ -46,5 +46,11 @@
     "name": "Malování",
     "link": "/malovani",
     "ext": 0
+  },
+  {
+    "id": 9,
+    "name": "Scratch",
+    "link": "/scratch",
+    "ext": 0
   }
 ]
