@@ -12,6 +12,11 @@ function vlastiveda() {
       </Head>
       <ul className="border rounded-md shadow-lg p-4">
         <li>
+          <Link href="/hry">
+            <a className="font-semibold text-lg text-red-700">Online hry</a>
+          </Link>
+        </li>
+        <li>
           <Link
             href="https://rysava.websnadno.cz/Vlastiveda-dejepis-5roc.html"
             passHref
