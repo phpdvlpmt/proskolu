@@ -148,5 +148,35 @@
     "name": "Severní a západní Evropa - slepá mapa státy",
     "link": "https://wordwall.net/cs/resource/31864599/zem%c4%9bpis/severn%c3%ad-a-z%c3%a1padn%c3%ad-evropa-slep%c3%a1-mapa-st%c3%a1ty",
     "trida": 5
+  },
+  {
+    "id": 26,
+    "name": "Slovenská republika - kvíz",
+    "link": "https://wordwall.net/cs/resource/31641142/vlastiv%c4%9bda/slovensk%c3%a1-republika-slovensko",
+    "trida": 5
+  },
+  {
+    "id": 27,
+    "name": "Slovenská republika",
+    "link": "https://wordwall.net/cs/resource/13624872/slovensko",
+    "trida": 5
+  },
+  {
+    "id": 28,
+    "name": "Slovenská republika - mapa",
+    "link": "https://wordwall.net/cs/resource/28176850/slovensko",
+    "trida": 5
+  },
+  {
+    "id": 29,
+    "name": "Slovenská republika - krabice",
+    "link": "https://wordwall.net/cs/resource/33813581/slovensko",
+    "trida": 5
+  },
+  {
+    "id": 30,
+    "name": "Slovenská republika - krtek",
+    "link": "https://wordwall.net/cs/resource/12915015/slovensko",
+    "trida": 5
   }
 ]
