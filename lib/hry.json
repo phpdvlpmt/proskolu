@@ -15,7 +15,7 @@
     "id": 3,
     "name": "Krajská města, čím jsou známá",
     "link": "https://wordwall.net/cs/resource/29438595/zem%c4%9bpis/krajsk%c3%a1-m%c4%9bsta-%c4%8d%c3%adm-jsou-zn%c3%a1m%c3%a1-1",
-    "trida": 5
+    "trida": 4
   },
   {
     "id": 4,
@@ -27,13 +27,13 @@
     "id": 5,
     "name": "Slepá mapa ČR - pohoří",
     "link": "https://wordwall.net/cs/resource/27416342/zem%c4%9bpis/slep%c3%a1-mapa-%c4%8dr-poho%c5%99%c3%ad",
-    "trida": 5
+    "trida": 4
   },
   {
     "id": 6,
     "name": "Slepá mapa ČR - pohoří 2",
     "link": "https://wordwall.net/cs/resource/27416101/zem%c4%9bpis/poho%c5%99%c3%ad-%c4%8dr-slep%c3%a1-mapa",
-    "trida": 5
+    "trida": 4
   },
   {
     "id": 7,
@@ -45,13 +45,13 @@
     "id": 8,
     "name": "Řeky ČR - slepá mapa",
     "link": "https://wordwall.net/cs/resource/27416075/zem%c4%9bpis/%c5%99eky-%c4%8dr-slep%c3%a1-mapa",
-    "trida": 5
+    "trida": 4
   },
   {
     "id": 9,
     "name": "Pohoří ČR",
     "link": "https://wordwall.net/cs/resource/36773540/zem%c4%9bpis/poho%c5%99%c3%ad-%c4%8dr",
-    "trida": 5
+    "trida": 4
   },
   {
     "id": 10,
@@ -93,7 +93,7 @@
     "id": 16,
     "name": "Řeky ČR - slepá mapa",
     "link": "https://wordwall.net/cs/resource/32808548/zem%c4%9bpis/vl-%c5%99eky-%c4%8dr-slep%c3%a1-mapa",
-    "trida": 5
+    "trida": 4
   },
   {
     "id": 17,
@@ -129,13 +129,13 @@
     "id": 22,
     "name": "Vodstvo Evropy - moře, oceány, průlivy",
     "link": "https://wordwall.net/cs/resource/37563008/zem%c4%9bpis/vodstvo-evropy-mo%c5%99e-oce%c3%a1ny-pr%c5%aflivy-5t%c5%99%c3%adda",
-    "trida": 4
+    "trida": 5
   },
   {
     "id": 23,
     "name": "Kraje slepá mapa",
     "link": "https://wordwall.net/cs/resource/27416064/zem%c4%9bpis/kraje-slep%c3%a1-mapa",
-    "trida": 5
+    "trida": 4
   },
   {
     "id": 24,
@@ -178,5 +178,107 @@
     "name": "Slovenská republika - krtek",
     "link": "https://wordwall.net/cs/resource/12915015/slovensko",
     "trida": 5
+  },
+  {
+    "id": 31,
+    "name": "Kraje České republiky",
+    "link": "https://wordwall.net/cs/resource/24709581/vlastiv%c4%9bda/kraje-%c4%8dr",
+    "trida": 4
+  },
+  {
+    "id": 32,
+    "name": "Státní symboly České republiky",
+    "link": "https://wordwall.net/cs/resource/27034372/prvouka/st%c3%a1tn%c3%ad-symboly-%c4%8desk%c3%a9-republiky",
+    "trida": 4
+  },
+  {
+    "id": 33,
+    "name": "Kvíz",
+    "link": "https://wordwall.net/cs/resource/11890705/vlastiv%C4%9Bda-4-t%C5%99%C3%ADda-%C4%8Dr",
+    "trida": 4
+  },
+  {
+    "id": 34,
+    "name": "Mapy a plány – základní pojmy a definice",
+    "link": "https://wordwall.net/cs/resource/37485302/vlastiv%c4%9bda/mapy-a-pl%c3%a1ny-z%c3%a1kladn%c3%ad-pojmy-a-definice",
+    "trida": 4
+  },
+  {
+    "id": 35,
+    "name": "Mapy a plány",
+    "link": "https://wordwall.net/cs/resource/21194091/vlastiv%c4%9bda/mapy-a-pl%c3%a1ny",
+    "trida": 4
+  },
+  {
+    "id": 36,
+    "name": "Nížiny ČR",
+    "link": "https://wordwall.net/cs/resource/31741140/vlastiv%c4%9bda/n%c3%ad%c5%beiny-%c4%8dr",
+    "trida": 4
+  },
+  {
+    "id": 37,
+    "name": "Povrch ČR - základní pojmy",
+    "link": "https://wordwall.net/cs/resource/28924005/vlastiv%c4%9bda/povrch-%c4%8dr-z%c3%a1kladn%c3%ad-pojmy",
+    "trida": 4
+  },
+  {
+    "id": 38,
+    "name": "Nerostné suroviny v ČR",
+    "link": "https://wordwall.net/cs/resource/32221738/vlastiv%c4%9bda/nerostn%c3%a9-suroviny-v-%c4%8dr",
+    "trida": 4
+  },
+  {
+    "id": 38,
+    "name": "Voda v krajině",
+    "link": "https://wordwall.net/cs/resource/7097470/voda-v-krajin%C4%9B",
+    "trida": 4
+  },
+  {
+    "id": 39,
+    "name": "Nerostné suroviny",
+    "link": "https://wordwall.net/cs/resource/32221713/vlastiv%c4%9bda/nerostn%c3%a9-suroviny-v-%c4%8dr",
+    "trida": 4
+  },
+  {
+    "id": 40,
+    "name": "Počasí, podnebí",
+    "link": "https://wordwall.net/cs/resource/26632500/vlastiv%C4%9Bda-po%C4%8Das%C3%AD-podneb%C3%AD",
+    "trida": 4
+  },
+  {
+    "id": 41,
+    "name": "Kraje - zajímavosti",
+    "link": "https://wordwall.net/cs/resource/25248700/kraje-zaj%C3%ADmavosti",
+    "trida": 4
+  },
+  {
+    "id": 42,
+    "name": "Řeky - anagram",
+    "link": "https://wordwall.net/cs/resource/24841819/vlastiv%c4%9bda/%c5%99eky-anagram",
+    "trida": 4
+  },
+  {
+    "id": 43,
+    "name": "Pohoří",
+    "link": "https://wordwall.net/cs/resource/25711773/vlastiv%c4%9bda/poho%c5%99%c3%ad",
+    "trida": 4
+  },
+  {
+    "id": 44,
+    "name": "Státní symboly a znaky",
+    "link": "https://wordwall.net/cs/resource/35578870/zem%c4%9bpis/ns-4-ro%c4%8dn%c3%adk-vlastiv%c4%9bda-na%c5%a1e-vlast-st%c3%a1tn%c3%ad-symboly-a",
+    "trida": 4
+  },
+  {
+    "id": 45,
+    "name": "Místo, kde žijeme",
+    "link": "https://wordwall.net/cs/resource/25153366/vlastiv%c4%9bda/vlastiv%c4%9bda-m%c3%adsto-kde-%c5%beijeme-1-%c4%8d%c3%a1st",
+    "trida": 4
+  },
+  {
+    "id": 46,
+    "name": "Pohoří ČR",
+    "link": "https://wordwall.net/cs/resource/24421018/vlastiv%c4%9bda/poho%c5%99%c3%ad-%c4%8dr",
+    "trida": 4
   }
 ]
