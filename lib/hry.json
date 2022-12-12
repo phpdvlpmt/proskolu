@@ -280,5 +280,41 @@
     "name": "Pohoří ČR",
     "link": "https://wordwall.net/cs/resource/24421018/vlastiv%c4%9bda/poho%c5%99%c3%ad-%c4%8dr",
     "trida": 4
+  },
+  {
+    "id": 47,
+    "name": "Polsko",
+    "link": "https://wordwall.net/cs/resource/28839038/polsko",
+    "trida": 5
+  },
+  {
+    "id": 48,
+    "name": "Polsko - chybějící slovo",
+    "link": "https://wordwall.net/cs/resource/7174054/polsko",
+    "trida": 5
+  },
+  {
+    "id": 49,
+    "name": "Polsko - místopis",
+    "link": "https://wordwall.net/cs/resource/38414509/m%C3%ADstopis-polsko",
+    "trida": 5
+  },
+  {
+    "id": 50,
+    "name": "Polsko - poznávání",
+    "link": "https://wordwall.net/cs/resource/32677177/vlastiv%c4%9bda-zem%c4%9bpis/polsko-pozn%c3%a1v%c3%a1n%c3%ad",
+    "trida": 5
+  },
+  {
+    "id": 51,
+    "name": "Polsko - mapa",
+    "link": "https://wordwall.net/cs/resource/32673261/vlastiv%c4%9bda-zem%c4%9bpis/polsko-pozn%c3%a1v%c3%a1n%c3%ad",
+    "trida": 5
+  },
+  {
+    "id": 52,
+    "name": "Polsko - sousední země",
+    "link": "https://wordwall.net/cs/resource/9528108/sousedn%C3%AD-zem%C4%9B-%C4%8Dr-polsko",
+    "trida": 5
   }
 ]
