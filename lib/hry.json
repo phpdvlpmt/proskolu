@@ -316,5 +316,41 @@
     "name": "Polsko - sousední země",
     "link": "https://wordwall.net/cs/resource/9528108/sousedn%C3%AD-zem%C4%9B-%C4%8Dr-polsko",
     "trida": 5
+  },
+  {
+    "id": 53,
+    "name": "Německo - chybějící slovo",
+    "link": "https://wordwall.net/cs/resource/7815541/n%C4%9Bmecko",
+    "trida": 5
+  },
+  {
+    "id": 54,
+    "name": "Německo - procvičování",
+    "link": "https://wordwall.net/cs/resource/26166570/%c4%8desk%c3%a9-d%c4%9bjiny-a-st%c5%99edomo%c5%99sk%c3%a1-civilizace/n%c4%9bmecko-procvi%c4%8dov%c3%a1n%c3%ad",
+    "trida": 5
+  },
+  {
+    "id": 55,
+    "name": "Německo - mapa",
+    "link": "https://wordwall.net/cs/resource/39403162/n%C4%9Bmecko-mapa",
+    "trida": 5
+  },
+  {
+    "id": 56,
+    "name": "Německo, Rakousko",
+    "link": "https://wordwall.net/cs/resource/20970049/n%c4%9bm%c4%8dina/kv%c3%adz-n%c4%9bmecko-rakousko",
+    "trida": 5
+  },
+  {
+    "id": 57,
+    "name": "Rakousko",
+    "link": "https://wordwall.net/cs/resource/32667385/rakousko",
+    "trida": 5
+  },
+  {
+    "id": 58,
+    "name": "Rakousko 2",
+    "link": "https://wordwall.net/cs/resource/32212117/rakouskoo",
+    "trida": 5
   }
 ]
