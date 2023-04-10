@@ -17,7 +17,13 @@ export default function Ni() {
       </div>
       <div className="grid sm:grid-cols-2 sm:gap-4 md:grid-cols-3 lg:grid-cols-4">
         {Nizdroje.map((ni) => (
-          <NiCard key={ni.id} name={ni.name} link={ni.link} ext={ni.ext} />
+          <NiCard
+            key={ni.id}
+            name={ni.name}
+            link={ni.link}
+            ext={ni.ext}
+            color={ni.color}
+          />
         ))}
       </div>
     </div>

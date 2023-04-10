@@ -1,20 +1,21 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
+import ScratchCard from "../components/ScratchCard";
+import Scratch from "../lib/scratch.json";
 
 function scratch() {
   return (
-    <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-      <Link href="https://scratch.mit.edu/projects/765563563">
-        <a target="_blank" rel="noopener noreferrer">
-          <Image
-            src="/images/souradnice.png"
-            width="450"
-            height="400"
-            alt="Souřadnice"
-          />
-        </a>
-      </Link>
+    <div className="grid sm:grid-cols-2 sm:gap-4 md:grid-cols-5 lg:grid-cols-7">
+      {Scratch.map((sc) => (
+        <ScratchCard
+          key={sc.id}
+          name={sc.name}
+          link={sc.link}
+          ext={sc.ext}
+          img={sc.img}
+        />
+      ))}
     </div>
   );
 }

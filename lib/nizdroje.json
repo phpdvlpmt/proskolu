@@ -49,8 +49,9 @@
   },
   {
     "id": 9,
-    "name": "Scratch",
+    "name": "Programování ve Scratch",
     "link": "/scratch",
-    "ext": 0
+    "ext": 0,
+    "color": "orange"
   }
 ]

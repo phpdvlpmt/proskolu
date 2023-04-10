@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Souřadnice",
+    "link": "https://scratch.mit.edu/projects/765563563",
+    "img": "/images/souradnice.png",
+    "ext": 1
+  },
+  {
+    "id": 2,
+    "name": "Scratch učebnice",
+    "link": "https://imysleni.cz/ucebnice/zaklady-programovani-ve-scratchi-pro-5-rocnik-zakladni-skoly",
+    "img": "https://imysleni.cz/components/com_rsdirectory/files/cache/330x460/99264b9b1d049eae5a0ba1cbb80aefa8.png",
+    "ext": 1
+  },
+  {
+    "id": 3,
+    "name": "Projekty online",
+    "link": "https://scratch.mit.edu/studios/27307286/",
+    "img": "/images/scratch_online.png",
+    "ext": 1
+  }
+]
