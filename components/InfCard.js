@@ -8,8 +8,8 @@ function InfCard({ link, img }) {
       <Link href={link} passHref>
         <a target="_blank" rel="noopener noreferrer">
           <Image
-            width="250"
-            height="250"
+            width="500"
+            height="500"
             src={img}
             alt="image"
             className="hover:scale-110 cursor-pointer"

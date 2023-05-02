@@ -46,5 +46,17 @@
   {
     "link": "http://tomas.imysleni.cz/",
     "img": "https://imysleni.cz/components/com_rsdirectory/files/cache/330x460/3d74e475b3179e93fb9f069f79be88dc.png"
+  },
+  {
+    "link": "https://www.informatikaprozs.cz/data/kodovani_informace_cislem/04_barevn%C3%A9%20kodov%C3%A1n%C3%AD_bart.pdf",
+    "img": "/images/bart.png"
+  },
+  {
+    "link": "/images/kravicka.png",
+    "img": "/images/kravicka.png"
+  },
+  {
+    "link": "https://www.informatikaprozs.cz/data/obrazkove_modely/03_obrazkovemodely_SIMPSONOVI.pdf",
+    "img": "/images/simpsons.png"
   }
 ]
