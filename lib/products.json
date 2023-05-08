@@ -58,5 +58,13 @@
   {
     "link": "https://www.informatikaprozs.cz/data/obrazkove_modely/03_obrazkovemodely_SIMPSONOVI.pdf",
     "img": "/images/simpsons.png"
+  },
+  {
+    "link": "https://www.informatikaprozs.cz/data/priprava_pro_programovani/102_pripravapro%20programovani_V%C3%BDvojov%C3%A9%20diagramy_01.pdf",
+    "img": "/images/vdiagram1.png"
+  },
+  {
+    "link": "https://www.informatikaprozs.cz/data/obrazkove_modely/05_myslenkove%20mapy.pdf",
+    "img": "/images/myslenkova_mapa.png"
   }
 ]
