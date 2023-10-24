@@ -28,5 +28,10 @@
     "id": 6,
     "name": "Plot",
     "link": "/images/plot.png"
+  },
+  {
+    "id": 7,
+    "name": "Housenka",
+    "link": "/images/housenka.png"
   }
 ]
