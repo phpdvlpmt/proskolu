@@ -22,7 +22,7 @@
   },
   {
     "id": 4,
-    "name": "Scratch metodika",
+    "name": "Scratch metodika 1",
     "link": "https://1drv.ms/b/s!AjRd_veIjzHfhm_G3IpmJWN0a6S5?e=F8WE1C",
     "img": "https://imysleni.cz/components/com_rsdirectory/files/cache/330x460/99264b9b1d049eae5a0ba1cbb80aefa8.png",
     "ext": 1
@@ -53,6 +53,20 @@
     "name": "Bloky",
     "link": "https://1drv.ms/p/s!AjRd_veIjzHfhnYnmENMQql2IFNR?e=q3WHhS",
     "img": "/images/m1b4.png",
+    "ext": 1
+  },
+  {
+    "id": 9,
+    "name": "Scratch metodika 2",
+    "link": "https://1drv.ms/b/s!AjRd_veIjzHfhngrXYdgqM6ufdkq?e=VSzRPZ",
+    "img": "https://imysleni.cz/components/com_rsdirectory/files/cache/330x460/99264b9b1d049eae5a0ba1cbb80aefa8.png",
+    "ext": 1
+  },
+  {
+    "id": 10,
+    "name": "Zkoumáme pero",
+    "link": "https://1drv.ms/p/s!AjRd_veIjzHfhnfRiQL7tSK3LDhP?e=yMVEvm",
+    "img": "/images/m2b1.png",
     "ext": 1
   }
 ]
