@@ -4,13 +4,15 @@ import Image from "next/image";
 
 function ScratchCard({ name, link, ext, img }) {
   return (
-    <div className="">
-      <h1 className="text-lg font-semibold">{name}</h1>
-      <Link href={link}>
-        <a target="_blank" rel="noopener noreferrer">
-          <Image src={img} width="350" height="400" alt="Souřadnice" />
-        </a>
-      </Link>
+    <div>
+      <h1 className="text-base ">{name}</h1>
+      <div className="border-2 rounded-md overflow-hidden border-gray-300 mt-3 w-full pt-[100%] relative">
+        <Link href={link}>
+          <a target="_blank" rel="noopener noreferrer">
+            <Image src={img} objectFit="cover" layout="fill" alt="obrázek" />
+          </a>
+        </Link>
+      </div>
     </div>
   );
 }

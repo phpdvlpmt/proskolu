@@ -82,5 +82,12 @@
     "link": "https://1drv.ms/p/s!AjRd_veIjzHfhnu3Nyz7oGOPWvUE?e=3ht0bB",
     "img": "/images/m2b3.png",
     "ext": 1
+  },
+  {
+    "id": 13,
+    "name": "Morseova abeceda",
+    "link": "/images/morseovka.png",
+    "img": "/images/morseovka.png",
+    "ext": 1
   }
 ]
