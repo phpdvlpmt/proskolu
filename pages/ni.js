@@ -3,6 +3,7 @@ import Image from "next/image";
 import Head from "next/head";
 import Nizdroje from "../lib/nizdroje.json";
 import { LinkIcon } from "@heroicons/react/solid";
+import NiCard from "../components/NiCard";
 
 export default function Ni() {
   return (
@@ -15,7 +16,7 @@ export default function Ni() {
         <LinkIcon className="h-7 w-7" />
       </div>
       <div className="grid sm:grid-cols-2 sm:gap-4 md:grid-cols-3 lg:grid-cols-4">
-        {/*  {Nizdroje.map((ni) => (
+        {Nizdroje.map((ni) => (
           <NiCard
             key={ni.id}
             name={ni.name}
@@ -23,7 +24,7 @@ export default function Ni() {
             ext={ni.ext}
             color={ni.color}
           />
-        ))} */}
+        ))}
       </div>
     </div>
   );
