@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import Head from "next/head";
-import NiCard from "../components/Nizdroje";
+import NiCard from "../components/Nicard";
 import Nizdroje from "../lib/nizdroje.json";
 import { LinkIcon } from "@heroicons/react/solid";
 
