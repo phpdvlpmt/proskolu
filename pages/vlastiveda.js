@@ -12,6 +12,14 @@ function vlastiveda() {
       </Head>
       <ul className="border rounded-md shadow-lg p-4">
         <li>
+          <a
+            className="font-semibold text-lg text-red-700"
+            href="https://nextjs14js.netlify.app/"
+          >
+            Vlastivědné kvízy
+          </a>
+        </li>
+        <li>
           <Link href="/hry">
             <a className="font-semibold text-lg text-red-700">Online hry</a>
           </Link>
