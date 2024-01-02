@@ -15,6 +15,8 @@ function vlastiveda() {
           <a
             className="font-semibold text-lg text-red-700"
             href="https://nextjs14js.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             Vlastivědné kvízy
           </a>
