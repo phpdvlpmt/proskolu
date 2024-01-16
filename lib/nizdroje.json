@@ -60,5 +60,12 @@
     "link": "https://dezgo.com/text2image/sdxl",
     "ext": 1,
     "color": "orange"
+  },
+  {
+    "id": 11,
+    "name": "Déčko",
+    "link": "/decko",
+    "ext": 0,
+    "color": "orange"
   }
 ]
