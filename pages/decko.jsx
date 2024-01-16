@@ -31,9 +31,8 @@ const Decko = () => {
               jsou na opačném konci světa?
             </td>
             <td className="p-3">
-              Díky internetu. Pozn.: Jde to i jinak, ale to teď nemusíme
-              vysvětlovat. Na blízko to jde třeba pomocí Bluetooth, na dálku
-              třeba přes SMS.
+              Díky internetu. Pozn.: Na blízko to jde třeba pomocí Bluetooth, na
+              dálku třeba přes SMS.
             </td>
           </tr>
           <tr className="border">
