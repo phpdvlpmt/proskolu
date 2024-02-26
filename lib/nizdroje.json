@@ -67,5 +67,12 @@
     "link": "/decko",
     "ext": 0,
     "color": "orange"
+  },
+  {
+    "id": 12,
+    "name": "Kódování informace obrázkem",
+    "link": "/kio",
+    "ext": 0,
+    "color": "orange"
   }
 ]
