@@ -7,14 +7,29 @@ const Kio = () => {
   return (
     <div className="flex flex-col gap-2 w-full">
       <h2 className="text-3xl font-bold">Kódování informace obrázkem</h2>
-      <a target="_blank" href="/images/uc4/4_5.png" alt="strany">
+      <a
+        target="_blank"
+        href="/images/uc4/4_5.png"
+        alt="strany"
+        className="hover:underline"
+      >
         Kapitola 1 - kódování informace a přenos dat (Strany 4 a 5)
       </a>
-      <a target="_blank" href="/images/uc4/6_7.png" alt="strany">
+      <a
+        target="_blank"
+        href="/images/uc4/6_7.png"
+        alt="strany"
+        className="hover:underline"
+      >
         Co je kódování (Strany 6 a 7)
       </a>
       <div className="flex gap-2">
-        <a target="_blank" href="/images/uc4/8_9.png" alt="strany">
+        <a
+          target="_blank"
+          href="/images/uc4/8_9.png"
+          alt="strany"
+          className="hover:underline"
+        >
           Emoji (😁 😋 😂), kódování vlastními obrázky (Strany 8 a 9).
         </a>
         Ve windows použijeme zkratku win + tečka (<IoLogoWindows /> + .)
@@ -44,6 +59,7 @@ const Kio = () => {
             href="https://imysleni.cz/images/vzdelavaci_materialy/Inf/NS-Zaklady-informatiky.pdf"
             target="_blank"
             rel="noreferrer"
+            className="hover:underline"
           >
             <p className="font-semibold">
               Základy informatiky pro 1. stupeň ZŠ (strana 8)
@@ -56,7 +72,7 @@ const Kio = () => {
           href="https://www.umimeinformatiku.cz/cviceni-kodovani-informaci-obrazkem"
           target="_blank"
           rel="noreferrer"
-          className="font-semibold"
+          className="font-semibold hover:underline"
         >
           Kódování informací obrázkem (https://www.umimeinformatiku.cz/)
         </a>
