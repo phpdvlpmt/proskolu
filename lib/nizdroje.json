@@ -74,5 +74,12 @@
     "link": "/kio",
     "ext": 0,
     "color": "orange"
+  },
+  {
+    "id": 13,
+    "name": "Úvod do modelování pomocí grafů a schémat",
+    "link": "/mg",
+    "ext": 0,
+    "color": "orange"
   }
 ]
