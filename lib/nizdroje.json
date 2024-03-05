@@ -81,5 +81,12 @@
     "link": "/mg",
     "ext": 0,
     "color": "orange"
+  },
+  {
+    "id": 14,
+    "name": "Kódování informace textem",
+    "link": "/kit",
+    "ext": 0,
+    "color": "orange"
   }
 ]
