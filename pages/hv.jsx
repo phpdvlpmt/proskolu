@@ -14,6 +14,15 @@ const Hv = () => {
           Bedřich Smetana - životopis a dílo
         </a>
         <a
+          href="https://www.youtube.com/watch?v=6rENhwU8xJ8"
+          target="_blank"
+          rel="noreferrer"
+          className="font-bold text-xl text-gray-900"
+        >
+          Bedřich Smetana - Má vlast (Vyšehrad, 16:08 - Vltava)
+        </a>
+
+        <a
           href="https://www.youtube.com/watch?v=Na6piObEzws"
           target="_blank"
           rel="noreferrer"
