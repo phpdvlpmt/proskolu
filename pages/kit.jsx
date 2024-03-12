@@ -28,6 +28,14 @@ const Kit = () => {
       >
         Šifrovací tabulka
       </a>
+      <a
+        href="https://excalidraw.com/"
+        target="_blank"
+        rel="noreferrer"
+        className="hover:underline"
+      >
+        Excalidraw
+      </a>
     </div>
   );
 };
