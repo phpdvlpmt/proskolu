@@ -62,8 +62,9 @@ const Hv = () => {
           rel="noreferrer"
           className="font-bold text-xl text-gray-900"
         >
-          Antonín Dvořák - Symphony No 9 From the New World
+          Antonín Dvořák - Symphony No 9 From the New World 10:13
         </a>
+
         <a
           href="https://www.youtube.com/watch?v=IJzJkiPLW5k"
           target="_blank"

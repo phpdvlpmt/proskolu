@@ -18,7 +18,15 @@ function scratch() {
           />
         ))}
       </div>
+      <div></div>
+
       <div className="flex flex-col gap-5 mt-4">
+        <Link
+          href="/scenerie"
+          className="hover:underline text-3xl font-bold text-emerald-800"
+        >
+          Scenérie kok za krokem
+        </Link>
         <a
           href="https://scratch.mit.edu/projects/980861696"
           target="_blank"
@@ -34,7 +42,14 @@ function scratch() {
             />
           </div>
         </a>
-        Metodika strana 50
+        <a
+          href="https://1drv.ms/b/s!AjRd_veIjzHfhngrXYdgqM6ufdkq?e=VSzRPZ"
+          target="_blank"
+          rel="noreferrer"
+          className="hover:underline"
+        >
+          Metodika strana 50
+        </a>
       </div>
     </>
   );
