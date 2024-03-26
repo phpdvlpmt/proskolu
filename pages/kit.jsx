@@ -36,6 +36,14 @@ const Kit = () => {
       >
         Excalidraw
       </a>
+      <a
+        href="https://www.umimeinformatiku.cz/rozhodovacka-kodovani-textu-1"
+        target="_blank"
+        rel="noreferrer"
+        className="hover:underline"
+      >
+        Základní kódování textu - online cvičení
+      </a>
     </div>
   );
 };

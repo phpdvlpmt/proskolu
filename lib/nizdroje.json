@@ -88,5 +88,18 @@
     "link": "/kit",
     "ext": 0,
     "color": "orange"
+  },
+  {
+    "id": 15,
+    "name": "Rastrové a vektorové obrázky",
+    "link": "/rvo",
+    "ext": 0,
+    "color": "orange"
+  },
+  {
+    "id": 16,
+    "name": "Modelování",
+    "link": "/modelovani",
+    "ext": 0
   }
 ]
