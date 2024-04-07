@@ -14,7 +14,7 @@ function vlastiveda() {
         <li>
           <a
             className="font-semibold text-lg text-red-700"
-            href="https://nextjs14js.netlify.app/"
+            href="https://nxtjs14js.onrender.com/login"
             target="_blank"
             rel="noopener noreferrer"
           >
