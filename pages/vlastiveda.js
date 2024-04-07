@@ -14,7 +14,7 @@ function vlastiveda() {
         <li>
           <a
             className="font-semibold text-lg text-red-700"
-            href=""
+            href="https://nxtjs14js-9m3g.onrender.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
