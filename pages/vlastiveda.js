@@ -14,11 +14,19 @@ function vlastiveda() {
         <li>
           <a
             className="font-semibold text-lg text-red-700"
-            href="https://nxtjs14js-9m3g.onrender.com/"
+            href="https://kvizy.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
             Vlastivědné kvízy
+          </a>
+          <a
+            className="font-semibold text-lg text-red-700"
+            href="https://nxtjs14js-9m3g.onrender.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Vlastivědné kvízy - alternativní odkaz
           </a>
         </li>
         <li>
