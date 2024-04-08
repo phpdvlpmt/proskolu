@@ -20,6 +20,8 @@ function vlastiveda() {
           >
             Vlastivědné kvízy
           </a>
+        </li>
+        <li>
           <a
             className="font-semibold text-lg text-red-700"
             href="https://nxtjs14js-9m3g.onrender.com/"
