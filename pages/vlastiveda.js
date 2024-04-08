@@ -14,7 +14,7 @@ function vlastiveda() {
         <li>
           <a
             className="font-semibold text-lg text-red-700"
-            href="https://nxtjs14js-9m3g.onrender.com/"
+            href="https://kvizy.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
           >
