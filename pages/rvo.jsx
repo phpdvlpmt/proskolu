@@ -27,7 +27,25 @@ const Rvo = () => {
         className="hover:underline"
         rel="noreferrer"
       >
-        Bitmapová grafika
+        Bitmapová grafika - cvičení online
+      </a>
+      <a
+        target="_blank"
+        href="https://www.informatikaprozs.cz/kodovani-vektorovych-obrazku"
+        alt="vektor"
+        className="hover:underline"
+        rel="noreferrer"
+      >
+        Vektorová grafika - cvičení online
+      </a>
+      <a
+        target="_blank"
+        href="https://www.informatikaprozs.cz/data/kodovani_vektorovych_obrazku/11_%C3%BAse%C4%8Dky_dome%C4%8Dek.pdf"
+        alt="vektor"
+        className="hover:underline"
+        rel="noreferrer"
+      >
+        Vektorová grafika - práce s úsečkami
       </a>
     </div>
   );

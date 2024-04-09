@@ -101,5 +101,12 @@
     "name": "Modelování",
     "link": "/modelovani",
     "ext": 0
+  },
+  {
+    "id": 17,
+    "name": "Algoritmické myšlení",
+    "link": "/am",
+    "ext": 0,
+    "color": "orange"
   }
 ]
