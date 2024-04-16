@@ -47,6 +47,31 @@ const Rvo = () => {
       >
         Vektorová grafika - práce s úsečkami
       </a>
+      <a
+        target="_blank"
+        href="/images/uc4/16_17.png"
+        alt="rastr"
+        className="hover:underline"
+      >
+        Vektorové obrázky 1 (Strany 16 a 17)
+      </a>
+      <a
+        target="_blank"
+        href="/images/uc4/18_19.png"
+        alt="rastr"
+        className="hover:underline"
+      >
+        Vektorové obrázky 2 (Strany 18 a 19)
+      </a>
+      <a
+        target="_blank"
+        href="/files/vektory.pdf"
+        alt="vektor"
+        className="hover:underline"
+        rel="noreferrer"
+      >
+        Vektorová grafika - skládačka
+      </a>
     </div>
   );
 };

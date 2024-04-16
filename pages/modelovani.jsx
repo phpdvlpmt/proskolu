@@ -47,6 +47,9 @@ const Modelovani = () => {
           >
             Pojmová mapa - řešení
           </a>
+          <a href="/pmz" className="hover:underline text-green-600 font-bold">
+            Pojmová mapa (Co si utrhnu na zahradě)
+          </a>
         </div>
         <div className="flex flex-col gap-2 w-full">
           <h3 className="text-2xl font-bold text-left">Myšlenková mapa</h3>
