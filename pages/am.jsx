@@ -57,6 +57,14 @@ const Am = () => {
       >
         Excalidraw - modelování online
       </a>
+      <a
+        href="https://www.informatikaprozs.cz/"
+        target="_blank"
+        rel="noreferrer"
+        className="hover:underline"
+      >
+        Informatika pro ZŠ
+      </a>
     </div>
   );
 };
