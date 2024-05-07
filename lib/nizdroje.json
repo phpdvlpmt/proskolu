@@ -108,5 +108,26 @@
     "link": "/am",
     "ext": 0,
     "color": "orange"
+  },
+  {
+    "id": 18,
+    "name": "Stolní počítač",
+    "link": "/sp",
+    "ext": 0,
+    "color": "orange"
+  },
+  {
+    "id": 19,
+    "name": "Bezpečnost práce",
+    "link": "/bp",
+    "ext": 0,
+    "color": "orange"
+  },
+  {
+    "id": 20,
+    "name": "Ovládání počítače",
+    "link": "/op",
+    "ext": 0,
+    "color": "orange"
   }
 ]
