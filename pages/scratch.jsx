@@ -18,38 +18,55 @@ function scratch() {
           />
         ))}
       </div>
-      <div></div>
-
-      <div className="flex flex-col gap-5 mt-4">
-        <Link
-          href="/scenerie"
-          className="hover:underline text-3xl font-bold text-emerald-800"
-        >
-          Scenérie kok za krokem
-        </Link>
-        <a
-          href="https://scratch.mit.edu/projects/980861696"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Scenérie - odkaz na ukázku
-          <div className="mt-4">
-            <Image
-              src="/images/scenerie.png"
-              alt="scenérie"
-              width="200"
-              height="200"
-            />
-          </div>
-        </a>
-        <a
-          href="https://1drv.ms/b/s!AjRd_veIjzHfhngrXYdgqM6ufdkq?e=VSzRPZ"
-          target="_blank"
-          rel="noreferrer"
-          className="hover:underline"
-        >
-          Metodika strana 50
-        </a>
+      <div className="flex gap-4">
+        <div className="flex flex-col gap-5 mt-4">
+          <Link
+            href="/scenerie"
+            className="hover:underline text-3xl font-bold text-emerald-800"
+          >
+            Scenérie kok za krokem
+          </Link>
+          <a
+            href="https://scratch.mit.edu/projects/980861696"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Scenérie - odkaz na ukázku
+            <div className="mt-4">
+              <Image
+                src="/images/scenerie.png"
+                alt="scenérie"
+                width="200"
+                height="200"
+              />
+            </div>
+          </a>
+          <a
+            href="https://1drv.ms/b/s!AjRd_veIjzHfhngrXYdgqM6ufdkq?e=VSzRPZ"
+            target="_blank"
+            rel="noreferrer"
+            className="hover:underline"
+          >
+            Metodika strana 50
+          </a>
+        </div>
+        <div className="flex flex-col gap-5 mt-4">
+          <a
+            href="https://scratch.mit.edu/studios/35225695"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Studio
+            <div className="mt-10">
+              <Image
+                src="/images/studio.png"
+                alt="studio"
+                width="200"
+                height="200"
+              />
+            </div>
+          </a>
+        </div>
       </div>
     </>
   );
