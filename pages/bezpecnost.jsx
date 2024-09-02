@@ -52,6 +52,14 @@ const Bezpecnost = () => {
             >
               <li>Fejci</li>
             </Link>
+            <Link
+              scroll={false}
+              passHref
+              href={"#8"}
+              className={router.asPath === `/bezpecnost#8` ? "font-bold" : ""}
+            >
+              <li>Konec</li>
+            </Link>
           </ul>
         </div>
         <div className="ml-[330px]">
@@ -59,7 +67,7 @@ const Bezpecnost = () => {
             <BCard key={b.title} bezpecnost={b} id={i} />
           ))}
           <section
-            className=" p-4 rounded-lg shadow-md py-4 bg-yellow-100"
+            className=" p-4 rounded-lg shadow-md py-4 bg-yellow-100 scroll-mt-16"
             id="7"
           >
             <div className="flex flex-col mb-2 py-2">
@@ -103,7 +111,7 @@ const Bezpecnost = () => {
               nesekal se obraz a byl funkční zvuk.
             </div>
           </section>
-          <div className="flex gap-4 my-10">
+          <div className="flex gap-4 my-10" id="8">
             <button
               className="px-3 py-2 bg-green-800 text-green-100 rounded-lg hover:bg-green-800"
               onClick={onRun}
@@ -111,7 +119,7 @@ const Bezpecnost = () => {
               Oslava
             </button>
             <button
-              className="px-3 py-2 bg-red-800 text-red-100 rounded-lg hover:bg-red-800"
+              className="px-3 py-2 bg-red-800 text-red-100 rounded-lg hover:bg-red-800 scroll-mt-16"
               onClick={onStop}
             >
               Stop
