@@ -1,5 +1,11 @@
 [
   {
+    "id": 0,
+    "name": "Bezpečnost",
+    "link": "/bezpecnost",
+    "ext": 0
+  },
+  {
     "id": 1,
     "name": "ŠVP",
     "link": "https://www.imysleni.cz/images/SVP/SVP2_nebojacne_vpred_v20220425.pdf",

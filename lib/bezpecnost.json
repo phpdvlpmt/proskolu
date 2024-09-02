@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Jak se bránit vulgaritám a výhrůžkám",
+    "subtitle": "Když ti někdo na internetu nadává nebo dokonce vyhrožuje, zachovej chladnou hlavu.",
+    "bgcolor": "#d1d5db",
+    "color": "#0369a1",
+    "id": "jak",
+    "lists": [
+      {
+        "li": "Na vulgární nebo výhrůžné zprávy NEODPOVÍDEJ."
+      },
+      {
+        "li": "Odesilatele si vlož do ignorace nebo jeho zprávy ZABLOKUJ."
+      },
+      {
+        "li": "Závadnou komunikaci ani jeho profil NEMAŽ, kdyby se situace zhoršila, potřebuješ důkaz."
+      },
+      {
+        "li": "Je dobré si udělat SCREENSHOT. (win + shift + s nebo Printscreen)"
+      },
+      {
+        "li": "Neboj se SVĚŘIT kamarádům, učitelům, rodičům."
+      },
+      {
+        "li": "Závažné věci se neboj s rodiči OZNÁMIT na policii."
+      }
+    ]
+  },
+  {
+    "title": "Schůzky",
+    "subtitle": "Dnes se lidé běžně seznamují přes internet. Než se vypravíš na schůzku s novým on-line kamarádem, dodržuj tyto zásady:",
+    "bgcolor": "#bae6fd",
+    "color": "#0284c7",
+    "lists": [
+      {
+        "li": "Vždy o schůzce někomu řekni."
+      },
+      {
+        "li": "Na první setkání vezmi s sebou nějakého kamaráda."
+      },
+      {
+        "li": "Než vyrazíš na schůzku, ověř si jeho totožnost."
+      },
+      {
+        "li": "Setkávej se jen na místě plném lidí. Třeba na náměstí nebo v obchodním centru."
+      },
+      {
+        "li": "Nechoď do uzavřených nebo sklepních prostor či garáží."
+      },
+      {
+        "li": "Schůzku si vždy naplánuj přes den."
+      }
+    ]
+  },
+  {
+    "title": "Hesla",
+    "subtitle": "O tom, že by heslo mělo být opravdu silné, aby ho nedokázal každý uhádnout, asi víš. Opakování je ale matka moudrosti:",
+    "bgcolor": "#fbcfe8",
+    "color": "#db2777",
+    "lists": [
+      {
+        "li": "Bezpečné heslo by mělo mít minimálně 8-12 znaků."
+      },
+      {
+        "li": "Je dobré mít v hesle kombinaci velkých a malých písmen, čísel a znaků."
+      },
+      {
+        "li": "Velké písmeno nedávej na začátek."
+      },
+      {
+        "li": "Do hesla přidej znak, který vyžaduje stisk dvou kláves."
+      },
+      {
+        "li": "Je dobré mít více hesel do různých účtů."
+      },
+      {
+        "li": "Své datum narození nebo adresu do hesla nedávej."
+      },
+      {
+        "li": "Číslo by nemělo být na konci."
+      }
+    ]
+  },
+  {
+    "title": "Co ukazovat na internetu",
+    "subtitle": "Na internetu můžeme sdílet spoustu informací. Některé z nich ale může někdo zneužít.",
+    "bgcolor": "#bae6fd",
+    "color": "#0284c7",
+    "lists": [
+      {
+        "li": "Zamkni si svůj profil, aby se do něj dostali jen přátelé."
+      },
+      {
+        "li": "Když vytváříš selfíčka, dej si pozor na to, co ukazuješ za sebou. Můžeš třeba celému světu ukázat, co máš doma. Toho mohou zneužít zloději."
+      },
+      {
+        "li": "Informace o tom, kde trávíš volný čas, dávej na internet se zpožděním."
+      },
+      {
+        "li": "Cizím lidem nesdílej informace, jako je tvoje adresa, majetek nebo hesla."
+      },
+      {
+        "li": "Když to není nutné, používej s rozvahou lokalizační služby. Každý nemusí vědět, kde se právě nacházíš. "
+      }
+    ]
+  },
+  {
+    "title": "Zabezpečení mobilu",
+    "subtitle": "Mobilní telefony umí spousty věcí a mnohdy jsou velmi drahé. Pokud nechceš přijít o svoje data, ani zařízení, je dobré dodržovat pár zásad.",
+    "bgcolor": "#fef9c3",
+    "color": "#fde047",
+    "lists": [
+      {
+        "li": "Nepůjčuj mobil."
+      },
+      {
+        "li": "Nastav si odemykání mobilu dvěma možnostmi. Může jít o PIN nebo heslo, otisk palce, gesto nebo odemykání přes obličej."
+      },
+      {
+        "li": "Nastav si automatické uzamykání obrazovky."
+      },
+      {
+        "li": "V telefonu měj antivirový program."
+      },
+      {
+        "li": "Nastav si anonymní náhledy zpráv na displeji."
+      },
+      {
+        "li": "Pravidelně zálohuj data."
+      },
+      {
+        "li": "Nastav si anonymní náhledy zpráv na displeji."
+      },
+      {
+        "li": "Aplikace stahuj jen z oficiálních míst a pozorně si přečti licenční podmínky. Některé aplikace jsou placené nebo vyžadují předplatné."
+      },
+      {
+        "li": "Krádež telefonu oznam mobilním operátorům a policii."
+      },
+      {
+        "li": "Heslo by nemělo obsahovat konkrétní slovo. A už vůbec ne tvoje jméno."
+      },
+      {
+        "li": "Neboj se propojit svoje telefonní číslo se svým účtem na sociální síti nebo e-mailu. Pomůže ti to navrátit zapomenuté nebo ukradené heslo."
+      }
+    ]
+  },
+  {
+    "title": "Sexting",
+    "subtitle": "Jednou z věcí, kterou bys na internetu neměl nikdy dělat, je zasílat svoje intimní fotky a videa.A to ani těm, které máš rád a věříš jim.",
+    "bgcolor": "#fbcfe8",
+    "color": "#db2777",
+    "lists": [
+      {
+        "li": "Když tě někdo na internetu požádá o tvoje nahé fotky či videa, svěř se. Může jít o predátora, který tě pak může vydírat nebo se snažit zneužít."
+      },
+      {
+        "li": "Tyto materiály většinou končí na internetu, kde si je může prohlédnout úplně každý."
+      },
+      {
+        "li": "Když na internetu narazíš na nahé fotky či videa dětí, nebo jen výzvy k zaslání, nenech si to pro sebe. Můžeš tím i někoho zachránit. Napiš nám na STOPONLINE.CZ. "
+      }
+    ]
+  },
+  {
+    "title": "Wi-Fi",
+    "subtitle": "Připojit se přes wifinu je určitě fajn. Internet je dostupnější a můžeš ušetřit i svá mobilní data.",
+    "bgcolor": "#d1d5db",
+    "color": "#0369a1",
+    "lists": [
+      {
+        "li": "Připojuj se jen přes wi-fi, kterou znáš a je zabezpečená."
+      },
+      {
+        "li": "Na neznámé wi-fi síti můžeš přijít o své účty, přihlašovací údaje nebo obsah."
+      },
+      {
+        "li": "Nainstaluj si do mobilního telefonu VPN – virtuální privátní síť, která zašifrovává spojení a nikdo, kdo je připojen do stejné wi-fi sítě, nemůže tvoji komunikaci rozluštit."
+      }
+    ]
+  }
+]
