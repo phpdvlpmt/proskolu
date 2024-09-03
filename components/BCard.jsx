@@ -13,9 +13,9 @@ const BCard = ({ bezpecnost, id }) => {
         </h1>
         <h2 className="font-bold">{bezpecnost.subtitle}</h2>
       </div>
-      <ul className="flex flex-col gap-2 text-xl">
+      <ul className="flex flex-col gap-2 text-xl pl-6">
         {bezpecnost.lists.map((b, i) => (
-          <li className="list-disc list-inside" key={i}>
+          <li className="list-disc list-outside" key={i}>
             {b.li}
           </li>
         ))}

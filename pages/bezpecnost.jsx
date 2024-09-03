@@ -116,7 +116,7 @@ const Bezpecnost = () => {
             <div>
               Asi nejspolehlivější možností, jak si někoho na internetu ověřit,
               je
-              <strong> VIDEOHOVOR</strong> . Důležité je, aby byl hovor plynulý,
+              <strong> VIDEOHOVOR</strong>. Důležité je, aby byl hovor plynulý,
               nesekal se obraz a byl funkční zvuk.
             </div>
           </section>
