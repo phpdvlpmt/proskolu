@@ -8,7 +8,7 @@ const BCard = ({ bezpecnost, id }) => {
       style={{ backgroundColor: bezpecnost.bgcolor }}
     >
       <div className="flex flex-col mb-2 py-2">
-        <h1 className="text-xl font-bold" style={{ color: bezpecnost.color }}>
+        <h1 className="text-2xl font-bold" style={{ color: bezpecnost.color }}>
           {bezpecnost.title}
         </h1>
         <h2 className="font-bold">{bezpecnost.subtitle}</h2>

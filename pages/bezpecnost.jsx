@@ -80,7 +80,7 @@ const Bezpecnost = () => {
             id="7"
           >
             <div className="flex flex-col mb-2 py-2">
-              <h1 className="text-xl font-bold text-yellow-300">Fejci</h1>
+              <h1 className="text-2xl font-bold text-yellow-300">Fejci</h1>
               <h2 className="font-bold">
                 Internet je skvělá věc, někteří lidé se ho ale snaží zneužít.
                 Třeba sociální sítě, kde si tito lidé vytvářejí falešné profily.
