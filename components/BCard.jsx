@@ -4,7 +4,7 @@ const BCard = ({ bezpecnost, id }) => {
   return (
     <section
       id={id}
-      className=" p-4 rounded-lg shadow-md py-4 mb-5 scroll-mt-16"
+      className=" p-4 rounded-lg shadow-md py-4 mb-5 scroll-mt-16 text-xl"
       style={{ backgroundColor: bezpecnost.bgcolor }}
     >
       <div className="flex flex-col mb-2 py-2">
@@ -13,7 +13,7 @@ const BCard = ({ bezpecnost, id }) => {
         </h1>
         <h2 className="font-bold">{bezpecnost.subtitle}</h2>
       </div>
-      <ul className="flex flex-col gap-2">
+      <ul className="flex flex-col gap-2 text-xl">
         {bezpecnost.lists.map((b, i) => (
           <li className="list-disc list-inside" key={i}>
             {b.li}

@@ -4,8 +4,10 @@ import bezpecnost from "../lib/bezpecnost.json";
 import { useRouter } from "next/router";
 import Fireworks from "react-canvas-confetti/dist/presets/fireworks";
 import { useRef } from "react";
+import { useState, useEffect } from "react";
 
 const Bezpecnost = () => {
+  const [isClient, setIsClient] = useState(false);
   const router = useRouter();
   const controller = useRef();
   const onInitHandler = ({ conductor }) => {
@@ -20,23 +22,21 @@ const Bezpecnost = () => {
   const onStop = () => {
     controller.current.stop();
   };
+  useEffect(() => {
+    setIsClient(true);
+  }, []);
+  if (!isClient) return null;
   return (
-    <>
+    <div>
       <Fireworks onInit={onInitHandler} />
-      <h1 className="text-4xl text-center uppercase font-bold mb-8">
-        {
-          <Link href="/files/nastenka_tisk_final.pdf">
-            <a target="_blank">Nástěnka bezpečného internetu</a>
-          </Link>
-        }
-      </h1>
+
       <div className="flex">
         <div className="w-1/3 fixed ">
           <ul className="flex flex-col gap-4 text-lg">
             {bezpecnost.map((b, i) => (
               <Link scroll={false} passHref key={i} href={`#${i}`}>
                 <li
-                  className={`${
+                  className={`cursor-pointer ${
                     router.asPath === `/bezpecnost#${i}` ? "font-bold" : ""
                   }`}
                 >
@@ -44,30 +44,39 @@ const Bezpecnost = () => {
                 </li>
               </Link>
             ))}
-            <Link
-              scroll={false}
-              passHref
-              href={"#7"}
-              className={router.asPath === `/bezpecnost#7` ? "font-bold" : ""}
-            >
-              <li>Fejci</li>
+            <Link scroll={false} passHref href={"#7"}>
+              <li
+                className={`cursor-pointer ${
+                  router.asPath === `/bezpecnost#7` ? "font-bold" : ""
+                }`}
+              >
+                Fejci
+              </li>
             </Link>
-            <Link
-              scroll={false}
-              passHref
-              href={"#8"}
-              className={router.asPath === `/bezpecnost#8` ? "font-bold" : ""}
-            >
-              <li>Konec</li>
+            <Link scroll={false} passHref href={"#8"}>
+              <li
+                className={`cursor-pointer ${
+                  router.asPath === `/bezpecnost#8` ? "font-bold" : ""
+                }`}
+              >
+                Konec
+              </li>
             </Link>
           </ul>
         </div>
-        <div className="ml-[330px]">
+        <div className="ml-[360px]">
+          <h1 className="text-xl text-center uppercase font-bold mb-8">
+            {
+              <Link href="/files/nastenka_tisk_final.pdf">
+                <a target="_blank">Nástěnka bezpečného internetu</a>
+              </Link>
+            }
+          </h1>
           {bezpecnost.map((b, i) => (
             <BCard key={b.title} bezpecnost={b} id={i} />
           ))}
           <section
-            className=" p-4 rounded-lg shadow-md py-4 bg-yellow-100 scroll-mt-16"
+            className=" p-4 rounded-lg shadow-md py-4 bg-yellow-100 scroll-mt-16 text-xl"
             id="7"
           >
             <div className="flex flex-col mb-2 py-2">
@@ -127,7 +136,7 @@ const Bezpecnost = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
