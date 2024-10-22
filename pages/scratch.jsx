@@ -87,12 +87,23 @@ function scratch() {
             <div className="mt-10">
               <Image
                 src="/images/m1n2.png"
-                alt="Něco navíc 2"
+                alt="Něco navíc pdf"
                 width="200"
                 height="200"
                 className="object-cover"
               />
             </div>
+          </a>
+        </div>
+        <div className="flex flex-col gap-5 mt-4 text-lg font-semibold text-green-700">
+          <a href="/files/m1n1.pdf" target="_blank" rel="noreferrer">
+            Modul 1 - Něco navíc 1
+          </a>
+          <a href="/files/m1n2.pdf" target="_blank" rel="noreferrer">
+            Modul 1 - Něco navíc 2
+          </a>
+          <a href="/files/m1p1.pdf" target="_blank" rel="noreferrer">
+            Modul 1 - Něco navíc plakát 1
           </a>
         </div>
       </div>
